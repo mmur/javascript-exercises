@@ -17,7 +17,11 @@
   <br>
 </div>
 
+Original Authors Note: 
 Series of interesting JavaScript exercises that I solved during my education. For each exercise I've tried to include several possible solutions. Thanks to [Jest](https://jestjs.io/) test framework you can easily check the correctness of your solution.
+
+[Forked from][https://github.com/appalaszynski/javascript-exercises]
+
 
 ---
 
