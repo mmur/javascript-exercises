@@ -2,7 +2,7 @@
   <a href="https://github.com/mmur/javascript-exercises">
     <img src="https://user-images.githubusercontent.com/35331661/42527869-27757618-847a-11e8-92f0-ab671ea0d200.png" height="125px">
   </a>
-  <h1>JavaScript Exercises</h1>
+  <h1>JavaScript Exercises For Nest New Chancers</h1>
   <p>
     <em>Collection of JavaScript Exercises and Coding Challenges</em>
   </p>
@@ -42,6 +42,10 @@ Install Jest globally.
 
 ```bash
 $ npm install -g jest
+```
+
+```bash
+$ npm init
 ```
 
 ---
@@ -92,6 +96,7 @@ You can also run Jest in watch mode by adding `--watch` flag.
 - [Weave](https://github.com/mmur/javascript-exercises/blob/master/exercises/Weave/index.js)
 - [SortNumberArray](https://github.com/mmur/javascript-exercises/blob/master/exercises/SortNumberArray/index.js)
 - [MaxOfThree](https://github.com/mmur/javascript-exercises/blob/master/exercises/MaxOfThree/index.js)
+- [SquareRoot](https://github.com/mmur/javascript-exercises/blob/master/exercises/SquareRoot/index.js)
 
 ---
 
