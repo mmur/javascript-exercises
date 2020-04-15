@@ -9,7 +9,6 @@
  */
 
 function maxOfThree(x, y, z) {
-    return Math.max(x, y, z);
 }
 
 module.exports = maxOfThree;
